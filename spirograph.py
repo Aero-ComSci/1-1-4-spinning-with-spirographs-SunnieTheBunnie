@@ -7,7 +7,7 @@ t.speed(20)
 
 x = 300
 move_x = 25
-colors = ["red", "blue", "orange", "yellow", "green", "purple"]
+colors = ["Royal blue", "deep sky blue", "cyan", "dark turquoise", "aquamarine", "cadet blue", "pale green"]
 
 for i in range(9):
     x = x - move_x
