@@ -39,4 +39,11 @@ Use the forward() and right() methods to draw the sides of the squares.
 7. Give an example of an undecidable problem, attach code.
    
 
+Pltw Work
+
+Step 17
+
+![image](https://github.com/user-attachments/assets/7b1bd5a8-75d2-4389-b8fa-e8d20b9f28f7)
+
+(Code in new file with comment)
 
