@@ -9,7 +9,6 @@ x = -200
 y = 0
 move_x = 1
 move_y = 1
-#Step 17, changed x < 0 to x < 100 so two humps are drawn instead of one
 while (x < 100):
 
   while (y < 100):
@@ -24,6 +23,24 @@ while (x < 100):
     painter.goto(x,y)
   move_y = 1
 
+x = 200
+y = 0
+move_x = -1
+move_y = -1
+
+while (x < 400):
+
+  while (y < 400):
+    x = x + move_x
+    y = y + move_y
+    painter.goto(x,y)
+  move_y = -1
+  
+  while (y < -100):
+    x = x + move_x
+    y = y + move_y
+    painter.goto(x,y)
+  move_y = 1
 
 wn = trtl.Screen()
 wn.mainloop()
