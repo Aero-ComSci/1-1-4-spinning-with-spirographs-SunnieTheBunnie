@@ -39,13 +39,19 @@ Use the forward() and right() methods to draw the sides of the squares.
 7. Give an example of an undecidable problem, attach code.
    
 
-Pltw Work
+Pltw Work:
 
-Step 17
+Step 17:
 
 ![image](https://github.com/user-attachments/assets/7b1bd5a8-75d2-4389-b8fa-e8d20b9f28f7)
 
-Step 18 & 19
+Step 18 & 19:
 
 <img width="476" alt="Screen Shot 2024-09-13 at 7 11 05 PM" src="https://github.com/user-attachments/assets/c29532f2-d5fd-4d6d-8465-be9035e682d7">
 
+Step 21: This flowchart represents a zero iteration, where sometimes the loop doesn't start, and other times it will be an infinite loop and continue.
+
+Tokenization code from last activity:
+
+<img width="235" alt="Screen Shot 2024-09-13 at 7 31 29 PM" src="https://github.com/user-attachments/assets/0ca3f0fa-0795-49e1-9f17-7495dc34733c">
+<img width="276" alt="Screen Shot 2024-09-13 at 7 31 37 PM" src="https://github.com/user-attachments/assets/53e909a0-effe-4c52-a4fa-f377611b8fe9">
