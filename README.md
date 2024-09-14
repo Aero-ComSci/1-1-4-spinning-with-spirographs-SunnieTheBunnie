@@ -38,8 +38,9 @@ Use the forward() and right() methods to draw the sides of the squares.
 6. Insert a screenshot or picture of the algorith you used for your tokenizer on the previous activity.
 7. Give an example of an undecidable problem, attach code.
    
+1. A zero iteration condition is a condition where the code will run zero times while an infinite loop will continuously run forever. In a zero iteration condition, a certain condition is not met which causes the program not to run. However, an infinite loop, the condition is met which causes the program to run continuously. Similarly, both zero iteration conditions and infinite loops use loops and is based on a condition.
 
-Pltw Work:
+4. Pltw Work:
 
 Step 17:
 
@@ -49,9 +50,13 @@ Step 18 & 19:
 
 <img width="476" alt="Screen Shot 2024-09-13 at 7 11 05 PM" src="https://github.com/user-attachments/assets/c29532f2-d5fd-4d6d-8465-be9035e682d7">
 
-Step 21: This flowchart represents a zero iteration, where sometimes the loop doesn't start, and other times it will be an infinite loop and continue.
+5. Step 21: This flowchart represents a zero iteration, where sometimes the loop doesn't start, and other times it will be an infinite loop and continue.
 
 Tokenization code from last activity:
 
+6. 
+
 <img width="235" alt="Screen Shot 2024-09-13 at 7 31 29 PM" src="https://github.com/user-attachments/assets/0ca3f0fa-0795-49e1-9f17-7495dc34733c">
 <img width="276" alt="Screen Shot 2024-09-13 at 7 31 37 PM" src="https://github.com/user-attachments/assets/53e909a0-effe-4c52-a4fa-f377611b8fe9">
+
+7. Example of undecidable problem: One example of an undecidable problem is a problem where it asks for the user input and uses the input through a function. This function will determine what happens depending on the user input. If the user input is 0, then the function will end or halt. If the user input is any other number, the function will run infinitely.
