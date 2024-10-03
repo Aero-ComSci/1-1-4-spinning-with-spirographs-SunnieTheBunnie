@@ -63,4 +63,6 @@ Step 18 & 19:
 <img width="235" alt="Screen Shot 2024-09-13 at 7 31 29 PM" src="https://github.com/user-attachments/assets/0ca3f0fa-0795-49e1-9f17-7495dc34733c">
 <img width="276" alt="Screen Shot 2024-09-13 at 7 31 37 PM" src="https://github.com/user-attachments/assets/53e909a0-effe-4c52-a4fa-f377611b8fe9">
 
+In this image, the tokenizer will check if any other flower words are typed into the users response. If the tokenizer detects a word, it will draw that flower. However, if the user does not input a word that the tokenizer picks up on, then it will tell the user that we are out of those specific flowers, and they will have to select a different kind.
+
 7 Example of undecidable problem: One example of an undecidable problem is a problem where it asks for the user input and uses the input through a function. This function will determine what happens depending on the user input. If the user input is 0, then the function will end or halt. If the user input is any other number, the function will run infinitely.
